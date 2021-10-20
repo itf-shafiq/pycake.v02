@@ -4,3 +4,7 @@ Practice Python eveary day(100 day challage ). I will practice python daily mini
 # $ Day 01 $ 
  Practice for last one hour. Today I have solve some List related Excercise from the book "python Crash Course"
 Topic of my Practice was Working with list
+
+# $ Day 02 $ 
+
+Today I have practice for 40 minute. I will recover todays missing 20 minute tomorrow 
